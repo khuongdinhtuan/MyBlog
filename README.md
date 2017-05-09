@@ -1,24 +1,36 @@
-# README
+# MyBlog Website
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##Description:
+* This is a demo blog for beginners about Rails.
 
-Things you may want to cover:
+Requirements and guide set up and run.
 
-* Ruby version
+* Ruby version: 2.3.1 or higher
 
-* System dependencies
+
+
+* System dependencies: Ubuntu 16.04
+
+
 
 * Configuration
 
+
+
 * Database creation
+
+
 
 * Database initialization
 
+
+
 * How to run the test suite
+
+
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
+* Deployment instructions
